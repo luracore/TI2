@@ -1,0 +1,30 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: Nutrimax
+authors:
+  - family-names: Meyer Guimarães
+    given-names: Guilherme
+  - family-names: Lopes Freitas Moura
+    given-names: Lucas
+  - family-names: Rodrigues Almeida
+    given-names: Luis Felipe
+  - family-names: Costa Resende
+    given-names: Lucca Rafael
+ 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Amy Saldanha Rivero
+    given-names: Ilo 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Soares Gomes
+    given-names: Marco Paulo
+keywords:
+  - Nutrição
+  - Dieta
+  - Sistemas inteligentes
+  - Reconhecimento de imagens
+repository-code: https://github.com/ICEI-PUC-Minas-CC-TI/plmg-cc-ti2-2024-2-g25-nutrimax 
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2024-11-28
